@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+.form-group {
+  margin-bottom: 10px;
+}
+label {
+  display: inline-block;
+  width: 100px;
+}
+input {
+  padding: 5px;
+}
+button {
+  padding: 8px 16px;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background: #0056b3;
+}
+#result {
+  margin-top: 20px;
+}
